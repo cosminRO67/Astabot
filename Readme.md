@@ -12,9 +12,8 @@
 <a href="https://github.com/Davemiracle01"><img title="Author" src="https://img.shields.io/badge/Davemiracle01-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@davidmiracle-v1t?si=7Z_bsU62UPysa5Sg"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254114127157"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
- <p align="center">
-<a href="https://github.com/Davemiracle01/followers"><img title="Followers" src="https://img.shields.io/github/followers/Davemiracle01?color=red&style=flat-square"></a>
-<a href="https://github.com/Davemiracle01/ASTA-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Davemiracle01/ASTA-BOT?color=blue&style=flat-square"></a>
+
+<a  href="https://github.com/Davemiracle01/ASTA-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Davemiracle01/ASTA-BOT?color=blue&style=flat-square"></a>
 <a href="https://github.com/Davemiracle01/ASTA-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Davemiracle01/ASTA-BOT?color=blue&style=flat-square"></a>
 <a href="https://github.com/Davemiracle01/ASTA-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Davemiracle01/ASTA-BOT?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Davemiracle01/ASTA-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/Davemiracle01/ASTA-BOT?style=flat-square&color=green"></a>
@@ -42,11 +41,13 @@
 
 <h2 align="left">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
 
-<h2 align="left">this sc is still being uploaded get the latest on our channel</h2>h2>
+<h2 align="left">this sc is still being uploaded get the latest on our channel</h2>
 
     👇👇👇👇
+    <p align="center">
+<a href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img title="Whatsapp channel" src="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"></a>
 
-href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img title="Whatsapp channel" 
+href=""><img title="Whatsapp channel" 
 
 <p style="text-align: center; font-size: 1.2em;">
   <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
