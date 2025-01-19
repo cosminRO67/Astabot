@@ -41,7 +41,12 @@
 ***
 
 <h2 align="left">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
-*this sc is still being uploaded get the latest on our channel*
+
+<h2 align="left">this sc is still being uploaded get the latest on our channel</h2>h2>
+
+    👇👇👇👇
+
+href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img title="Whatsapp channel" 
 
 <p style="text-align: center; font-size: 1.2em;">
   <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
