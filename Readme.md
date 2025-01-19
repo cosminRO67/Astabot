@@ -41,6 +41,8 @@
 ***
 
 <h2 align="left">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
+*this sc is still being uploaded get the latest on our channel*
+
 <p style="text-align: center; font-size: 1.2em;">
   <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
   Misusing this bot may result in a <strong>ban</strong> on your WhatsApp account. 
