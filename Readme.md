@@ -44,10 +44,10 @@
 <h2 align="left">this sc is still being uploaded get the latest on our channel</h2>
 
     👇👇👇👇
-    <p align="center">
+    please follow 
 <a href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img title="Whatsapp channel" src="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"></a>
 
-href=""><img title="Whatsapp channel" 
+
 
 <p style="text-align: center; font-size: 1.2em;">
   <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
