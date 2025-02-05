@@ -75,5 +75,6 @@
 <h1>thanks for choosing astabot<h1><p1>
 <button>click here</button>
 <strong>©dave</strong>
+<a href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"/a>
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
