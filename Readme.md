@@ -74,5 +74,6 @@
 
 <h1>thanks for choosing astabot<h1><p1>
 <button>click here</button>
+<strong>©dave</strong>
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
