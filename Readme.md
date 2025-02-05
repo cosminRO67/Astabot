@@ -73,7 +73,7 @@
 </div>
 
 <h1>thanks for choosing astabot<h1><p1>
-<a href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"/a> <button>click here</button>
+<a> href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"</a> <button>click here</button>
 <strong>©dave</strong>
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
