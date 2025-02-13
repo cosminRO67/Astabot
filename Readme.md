@@ -32,6 +32,13 @@
 <p align = center>   <img src="https://files.catbox.moe/l7s2gl.jpg"</p>
 
 
+### <br>GET SESSION ID 
+`IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+254xxx THEN YOU CAN GET YOUR SESSION_ID`
+
+
+
+
+<a href='https://lively-starship-7378eb.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
