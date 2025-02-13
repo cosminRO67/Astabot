@@ -57,7 +57,8 @@
 
 
 2. Now Deploy
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/Davemiracle01/Astabot?tab=readme-ov-file' target="_blank"><img alt='DEPLOY Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Davemiracle01/Astabot?tab=readme-ov-file' target="_blank"><img alt='joel' src='https://img.shields.io/badge/heroku ⚠️deployment-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
     
  
 
