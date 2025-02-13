@@ -9,7 +9,7 @@
 
    </p>
 <p align="center">
-<a href="https://github.com/Davemiracle01"><img title="Author" src="https://img.shields.io/badge/Davemiracle01-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@davidmiracle-v1t?si=7Z_bsU62UPysa5Sg"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254114127157"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Davemiracle01"><img title="Author" src="https://img.shields.io/badge/Davemiracle01-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@davidmiracle-v1t?si=7Z_bsU62UPysa5Sg"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254769279076"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
 
