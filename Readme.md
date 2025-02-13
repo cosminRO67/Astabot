@@ -51,7 +51,7 @@
 
 ## DEPLOY TO HEROKU 
 `CAUTION ⚠️ the safety of your heroku is not guaranteed so do this at your own risk`
-1. If You don't have a account in Heroku. Create a account.
+1. create an account .
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/heroku sign up-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
