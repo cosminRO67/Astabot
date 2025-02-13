@@ -36,9 +36,14 @@
 `IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+254xxx THEN YOU CAN GET YOUR SESSION_ID`
 
 
-
-
 <a href='https://lively-starship-7378eb.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+## <br> download files for panel deployment 
+`first get your session then paste it in your config.js then deploy on panel simple transparent for you 🚀👽`
+
+<a href='https://github.com/Davemiracle01/Astabot/archive/refs/heads/main.zip' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+
+
 
 
 ## DEPLOY TO HEROKU 
