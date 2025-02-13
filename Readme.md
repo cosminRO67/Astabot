@@ -46,13 +46,6 @@
 
 ***
 
-<h2 align="left">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
-
-<h2 align="left">this sc is still being uploaded get the latest on our channel</h2>
-
-    👇👇👇👇
-    please follow 
-<a href="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"><img title="Whatsapp channel" src="https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v"></a>
 
 
 
