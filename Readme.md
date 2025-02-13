@@ -41,7 +41,7 @@
 ## <br> download files for panel deployment 
 `first get your session then paste it in your config.js then deploy on panel simple transparent for you 🚀👽`
 
-<a href='https://github.com/Davemiracle01/Astabot/archive/refs/heads/main.zip' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://github.com/Davemiracle01/Astabot/archive/refs/heads/main.zip' target="_blank"><img alt='joel' src='https://img.shields.io/badge/click me -h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
