@@ -12,6 +12,9 @@
 <a href="https://github.com/Davemiracle01"><img title="Author" src="https://img.shields.io/badge/Davemiracle01-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@davidmiracle-v1t?si=7Z_bsU62UPysa5Sg"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/254769279076"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
+## <br> follow my Whatsapp channel 
+
+<a href='https://whatsapp.com/channel/0029VavpWUvGk1Fkbzz0vz0v' target="_blank"><img alt='joel' src='https://img.shields.io/badge/Whatsapp channel-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 <a  href="https://github.com/Davemiracle01/ASTA-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Davemiracle01/ASTA-BOT?color=blue&style=flat-square"></a>
 <a href="https://github.com/Davemiracle01/ASTA-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Davemiracle01/ASTA-BOT?color=blue&style=flat-square"></a>
