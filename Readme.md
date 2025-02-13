@@ -42,8 +42,8 @@
 <a href='https://lively-starship-7378eb.netlify.app' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 ## <br> download files for panel deployment 
-`first get your session then paste it in your config.js then deploy on panel simple transparent for you 🚀👽`
-
+`first get your session then paste it in your config.js then deploy on panel simple transparent for you 🚀👽 click on click me to download`
+<p align = center>   <img src="https://files.catbox.moe/xuh6gt.jpg"</p>
 <a href='https://github.com/Davemiracle01/Astabot/archive/refs/heads/main.zip' target="_blank"><img alt='joel' src='https://img.shields.io/badge/click me -h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
